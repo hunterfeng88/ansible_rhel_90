@@ -1,4 +1,4 @@
-# Ansible Workshop - Ansible for Red Hat Enterprise Linux (TW)
+# Ansible Workshop - Ansible for Red Hat Enterprise Linux (TW) 2022/12/06
 
 If you’re new to Ansible Automation, but want a quicker version of the original RHEL workshop, this 90-minute workshop provides you with fewer exercises, focused on cloud provisioning, converting bash/shell commands to Ansible, all the way to utilizing RHEL System Roles.
 
