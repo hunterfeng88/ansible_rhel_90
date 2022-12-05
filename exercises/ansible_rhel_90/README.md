@@ -40,6 +40,7 @@ This workshop was created to last about 90 minutes and focuses more on targeting
  - [Exercise 4 - Retrieving information from automation hosts](4-variables)
  - [Exercise 5 - Self-service IT via surveys](5-surveys)
  - [Exercise 6 - Overview of system roles for RHEL](6-system-roles)
+   - [ 1 more Exercise - Workflow ](https://dchan-redhat.github.io/exercises/ansible_rhel/2.6-workflows/)
 
 ---
 ![Red Hat Ansible Automation](../../images/rh-ansible-automation-platform.png)
