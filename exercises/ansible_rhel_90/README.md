@@ -17,7 +17,7 @@ If you’re new to Ansible Automation, but want a quicker version of the origina
 The exercises are self explanatory and guide the participants through the entire lab. All concepts are explained when they are introduced.
 
 There is an optional presentation available to support the workshops and explain Automation, the basics of Ansible and the topics of the exercises in more detail:
-[Ansible RHEL Automation](../../decks/ansible_rhel_90.pdf)
+[Ansible RHEL Automation](../../decks/TW Ansible RHEL Automation Workshop Deck-1206.pdf)
 [Google source - Red Hat only](https://docs.google.com/presentation/d/143JtFwmz469ucKNbB4L5T-PtKfurjpcOmCICzSbwm3Y/edit?usp=sharing)
 
 Also have a look at our Ansible Best Practices Deck:
