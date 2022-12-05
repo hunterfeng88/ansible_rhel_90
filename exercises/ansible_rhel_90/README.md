@@ -35,7 +35,7 @@ This workshop was created to last about 90 minutes and focuses more on targeting
 
  - [Exercise 1 - Overview of public cloud provisioning](1-setup)
  - [Exercise 2 - The Ansible Basics](2-thebasics)
- - [more lab - Running Adhoc command] (https://dchan-redhat.github.io/exercises/ansible_rhel_90/2-adhoc/)
+    - [ more lab - Running Adhoc command ] (https://dchan-redhat.github.io/exercises/ansible_rhel_90/2-adhoc/)
  - [Exercise 3 - Deploying applications to linux hosts](3-playbook)
  - [Exercise 4 - Retrieving information from automation hosts](4-variables)
  - [Exercise 5 - Self-service IT via surveys](5-surveys)
